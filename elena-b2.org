@@ -1310,3 +1310,5 @@ kjjdasa2
 2. Don't walk on the ice. You might slip. \to If you walk on the ice, you will slip. - FIRST CONDITIONAL
 3. The bakery is closed, so he can't buy bread. \to If the bakery is closed he can't buy bread. - ZERO CONDITIONAL
 4. My advice to you is to go to the department store. \to If I were you I would go to the department store - SECOND CONDITIONAL
+
+hello
