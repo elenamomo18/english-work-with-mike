@@ -1298,8 +1298,17 @@ kjjdasa2
 6. a
 7. e
 8. c
-
-
+*** 63.4
+1. doing
+2. going
+3. packing
+4. watching
+5. climbing
+6. getting
+7. playing
+8. working
+9. applying
+10. trying
 * Grammar stuff
 | conditional | rule                       | structure                    | example                                               |
 |-------------+----------------------------+------------------------------+-------------------------------------------------------|
@@ -1311,4 +1320,4 @@ kjjdasa2
 3. The bakery is closed, so he can't buy bread. \to If the bakery is closed he can't buy bread. - ZERO CONDITIONAL
 4. My advice to you is to go to the department store. \to If I were you I would go to the department store - SECOND CONDITIONAL
 
-hello
+
