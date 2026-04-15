@@ -1309,6 +1309,17 @@ kjjdasa2
 8. working
 9. applying
 10. trying
+** Unit 64. there's no point in -ing, it's nworth -ing etc.
+*** 64.1
+1. for
+2. to
+3. for
+4. to
+5. for
+6. for
+7. to
+8. for/to
+
 * Grammar stuff
 | conditional | rule                       | structure                    | example                                               |
 |-------------+----------------------------+------------------------------+-------------------------------------------------------|
